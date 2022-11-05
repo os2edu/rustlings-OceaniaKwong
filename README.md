@@ -59,7 +59,7 @@ If you get a permission denied message, you might have to exclude the directory 
 
 ## Manually
 
-Basically: Clone the repository at the latest tag, run `cargo install --path .`.
+Basically: Clone the repositorrusty at the latest tag, run `cargo install --path .`.
 
 ```bash
 # find out the latest version at https://github.com/rust-lang/rustlings/releases/latest (on edit 5.2.1)
